@@ -28,4 +28,4 @@ A Windows desktop application that captures a selected screen area, processes OC
    python -m venv venv
    .\venv\Scripts\Activate.ps1
 
-![App Demo Preview](image.png)
+![Trading Signal Detector Screenshot](image.png)

@@ -2,4 +2,5 @@ mss
 opencv-python
 pytesseract
 numpy
-win10toast
+MetaTrader5
+plyer
